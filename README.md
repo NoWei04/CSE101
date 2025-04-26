@@ -1,2 +1,2 @@
 # CSE101
-Coursework/Projects from Winter 2025
+Coursework from Winter 2025
